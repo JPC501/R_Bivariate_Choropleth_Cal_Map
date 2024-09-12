@@ -34,6 +34,7 @@ install.packages("sf")        # For handling geospatial data
 install.packages("biscale")   # For creating bivariate maps
 install.packages("ggplot2")   # Popular for data visualization
 install.packages("cowplot")   # For combining multiple plots in ggplot2
+```
 
 ### 4. Required Files
 
