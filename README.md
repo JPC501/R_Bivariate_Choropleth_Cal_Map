@@ -76,6 +76,10 @@ Ensure that the CSV file columns match the exact names used in the script.
 
 Your **GeoJSON** file should contain the geographic boundaries of the counties in California. This is what the map will use to draw the county shapes. Ensure that the county names in this file match those in your CSV file for a successful merge.
 
+### The mas Looks like:
+<img width="780" alt="Screenshot 2024-09-11 at 7 53 01 PM" src="https://github.com/user-attachments/assets/7b5936a3-6a38-4a8d-b38c-449b6b3df337">
+
+
 ### Credits
 
 This project was inspired by the `biscale` package tutorial available at the [CRAN R Project website](https://cran.r-project.org/web/packages/biscale/vignettes/biscale.html). All the bivariate map techniques in this project are based on the methods explained in that tutorial.
